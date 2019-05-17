@@ -20,13 +20,7 @@
         <v-card-actions>
           <v-spacer></v-spacer>
 
-          <v-btn
-            color="green darken-1"
-            flat="flat"
-            @click="dialog = false"
-          >
-            Disagree
-          </v-btn>
+         
 
           <v-btn
             icon=""
